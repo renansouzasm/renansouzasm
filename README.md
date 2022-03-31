@@ -1,4 +1,4 @@
-### Opa, I'm Renan Souza ✌️
+### Hi, I'm Renan Souza ✌️
 
 - 🤔 Pensando em futuros projétos e próximas linguagens que vou estudar...
 - 📓 Atualmente estudando na Faculdade de Ciência da computação (Cruzeiro do Sul)
