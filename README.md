@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/RenanLumie">
-  <img height="120px" whidth="185px" src="https://github-readme-stats.vercel.app/api?username=RenanLumie&show_icons=true&theme=dracula&include-all-commits=true&count"/>    
-  <img height="120px" whidth="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanLumie&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="120px" whidth="195px" src="https://github-readme-stats.vercel.app/api?username=RenanLumie&show_icons=true&theme=dracula&include-all-commits=true&count"/> 
+  <img height="120px" whidth="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanLumie&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador) -->
