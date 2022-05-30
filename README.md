@@ -8,6 +8,8 @@
 # Social
 <div>
   <a href="https://www.linkedin.com/in/renan-souza-039574236/"><img width="50px" heigh="50px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+  
+  <a href="#"><img width="50px" heigh="50px" src=""/></a>
 </div>
 
 # Linguagens
