@@ -8,9 +8,10 @@
 # Social
 > LinkedIn | Portfolio (em breve)
 <div justify="center">
-  <a href="https://www.linkedin.com/in/renan-souza-039574236/"><img width="50px" heigh="50px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
-
-  <a href="[#](https://www.linkedin.com/in/renan-souza-039574236/)"><img width="50px" heigh="50px" src="https://user-images.githubusercontent.com/101893896/171057609-c78c7c77-27ab-47ae-ad58-e3533d00af3e.svg"/></a>
+  <a margin="0 20px" href="https://www.linkedin.com/in/renan-souza-039574236/" target="_blank"><img width="50px" heigh="50px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+  <a href="[#](https://www.linkedin.com/in/renan-souza-039574236/)" target="_blank"><img width="50px" heigh="50px" src="https://user-images.githubusercontent.com/101893896/171057609-c78c7c77-27ab-47ae-ad58-e3533d00af3e.svg"/></a>
+  <a href="mailto:renansouza.sm@gmail.com"><img width="50px" heigh="50px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png" target="_blank"></a>
+  <a href=""><img width="50px" heigh="50px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png"/></a>
 </div>
 
 # Linguagens
