@@ -6,7 +6,7 @@
 - 📱 Linguagens que estou estudando: HTML | CSS | SASS | JAVA SCRIPT | REACT
 
 # Social
-> LinkedIn | Portfolio (em breve)
+> LinkedIn | Gmail | Discord | Portfolio (em breve)
 <div justify="center">
   <a margin="0 20px" href="https://www.linkedin.com/in/renan-souza-039574236/" target="_blank"><img width="50px" heigh="50px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
   <a href="mailto:renansouza.sm@gmail.com"><img width="50px" heigh="50px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png" target="_blank"></a>
