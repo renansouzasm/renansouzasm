@@ -1,29 +1,18 @@
-### Hi, I'm Renan Souza ✌️
+# Olá, me chamo Renan Souza 👋
 
-- 🤔 Pensando em futuros projétos e próximas linguagens que vou estudar...
-- 📓 Atualmente estudando na Faculdade de Ciência da computação (Cruzeiro do Sul)
+- 🤔 Pensando em futuros projetos e próximas linguagens que vou estudar...
+- 📓 Atualmente cursando Ciência da computação na Faculdade (Cruzeiro do Sul)
+- 🎮 Amo jogar e gostaria de desenvolver jogos no futuro
+- 📱 Linguagens que estou estudando: HTML | CSS | SASS | JAVA SCRIPT | REACT
+- 🗂️ Caso seja sua primeira vez no meu perfil, fique a vontade para navegar pelas pastas separadas por cada técnologia
+<br>
 
-<div>
-  <a href="https://github.com/RenanLumie">
-  <img height="140px" whidth="50%" src="https://github-readme-stats.vercel.app/api?username=RenanSouz&show_icons=true&theme=dracula&include-all-commits=true&count"/> 
-  <img height="140px" whidth="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSouz&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador) -->
-<!-- [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr) -->
-
-## Technologies
-
+# Social
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <!-- <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> -->
-  <!-- <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> -->
-  <!-- <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
-  <!-- <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> -->
-</div><br/>
+  <a href="https://www.linkedin.com/in/renan-souza-039574236/" ><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+</div><br>
 
-
-  
-  
-  
+# Linguagens
+<div>
+  <img height="200px" whidth="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSouz&layout=compact&langs_count=16&theme=dracula"/>
+</div>
