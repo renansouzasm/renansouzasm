@@ -4,7 +4,6 @@
 - 📓 Atualmente cursando Ciência da computação na Faculdade (Cruzeiro do Sul)
 - 🎮 Amo jogar e gostaria de desenvolver jogos no futuro
 - 📱 Linguagens que estou estudando: HTML | CSS | SASS | JAVA SCRIPT | REACT
-- 🗂️ Caso seja sua primeira vez no meu perfil, fique a vontade para navegar pelas pastas separadas por cada técnologia
 
 # Social
 <div>
