@@ -9,7 +9,7 @@
 - 📱 Linguagens que estou estudando: <strong>HTML | CSS | SASS | JAVA SCRIPT | REACT</strong>
 
 # Social
-> LinkedIn | Gmail | Discord | Portfolio (em breve)
+> LinkedIn | Gmail | Discord | Portfólio (em breve)
 <div justify="center">
   <a href="https://www.linkedin.com/in/renan-souza-039574236/" target="_blank"><img width="40px" heigh="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="mailto:renansouza.sm@gmail.com" target="_blank"><img width="40px" heigh="40px" src="https://img.icons8.com/color/48/000000/google-plus--v1.png" target="_blank"></a>
