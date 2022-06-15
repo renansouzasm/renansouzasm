@@ -19,5 +19,5 @@
 
 # Linguagens
 <div>
-  <img height="200px" whidth="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSouz&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="200px" whidth="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSouz&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
