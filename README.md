@@ -8,7 +8,7 @@
 
 - 📱 Linguagens que estou estudando: <strong>HTML | CSS | PYTHON | JAVA SCRIPT | REACT</strong>
 
-# Social
+## Social
 > LinkedIn | Gmail | Discord | Portfólio (em breve)
 <div justify="center">
   <a href="https://www.linkedin.com/in/renan-souza-039574236/" target="_blank"><img width="40px" heigh="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/renan-souza-039574236/" target="_blank"><img width="40px" heigh="40px" src="https://user-images.githubusercontent.com/101893896/171057609-c78c7c77-27ab-47ae-ad58-e3533d00af3e.svg"/></a>
 </div>
 
-# Linguagens
+## Linguagens
 <div>
   <img height="200px" whidth="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSouz&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
