@@ -4,7 +4,7 @@
 
 - 🖋 Atualmente cursando Ciência da computação na Faculdade Cruzeiro do Sul (2022-2025)
 
-- 🎮 Amo jogar e gostaria de desenvolver algum jogo no futuro
+- 👾 Amo jogar e gostaria de desenvolver algum jogo no futuro
 
 - 📱 Linguagens que estou estudando: <strong>HTML | CSS | SASS | PYTHON | JAVA SCRIPT | REACT</strong>
 
