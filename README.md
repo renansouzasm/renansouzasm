@@ -1,4 +1,4 @@
-# Olá, me chamo Renan Souza 👋
+## Olá, me chamo Renan Souza 👋
 
 - 🤔 Pensando em futuros projetos e próximas linguagens que vou estudar...
 
