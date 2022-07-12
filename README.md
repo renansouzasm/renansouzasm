@@ -8,9 +8,6 @@
     
 ⚡ Linguagens que estou estudando: <strong>HTML | CSS | SCSS | Python | Java script | React | Node.js</strong>
 
-<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
-
-
 ## Social
 > LinkedIn | Gmail | Discord | Portfólio (em breve)
 <div justify="center">
@@ -21,4 +18,8 @@
 </div>
 
 ## Linguagens
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSouz&layout=compact&langs_count=16&theme=tokyonight" height="200px"/>
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSouz&layout=compact&langs_count=16&theme=tokyonight" height="200px"/>
+    <img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
+</div>
