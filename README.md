@@ -1,6 +1,6 @@
-## Olá, me chamo Renan Souza 👋 <img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" width="30px"/>
+## Olá, me chamo Renan Souza 👋
 
-<div align="center">
+<div>
   <img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
   <details>
     <summary> More about me</summary>
@@ -16,9 +16,7 @@
       ```
     </div>
   </details>
-  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSouz&layout=compact&langs_count=16&theme=tokyonight" height="200px"/>
-  </div>
 </div>
 
 
