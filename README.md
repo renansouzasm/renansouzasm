@@ -1,25 +1,19 @@
 ## Olá, me chamo Renan Souza 👋
 
-<div>
-  <img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
-  <details>
-    <summary> More about me</summary>
-    <div>
-      ``` 
-      🤔 Pensando em futuros projetos e próximas linguagens que vou estudar...
+<details>
+  <summary> More about me</summary>
+  <div>
+    ``` 
+    🤔 Pensando em futuros projetos e próximas linguagens que vou estudar...
+    📚 Atualmente cursando Ciência da computação na Faculdade Cruzeiro do Sul (2022-2025)
+    👾 Amo jogar e gostaria de desenvolver algum jogo no futuro
+    ⚡ Linguagens que estou estudando: <strong>HTML | CSS | SCSS | Python | Java script | React | Node.js</strong>
+    ```
+  </div>
+</details>
 
-      📚 Atualmente cursando Ciência da computação na Faculdade Cruzeiro do Sul (2022-2025)
-
-      👾 Amo jogar e gostaria de desenvolver algum jogo no futuro
-
-      ⚡ Linguagens que estou estudando: <strong>HTML | CSS | SCSS | Python | Java script | React | Node.js</strong>
-      ```
-    </div>
-  </details>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSouz&layout=compact&langs_count=16&theme=tokyonight" height="200px"/>
-</div>
-
-
+<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSouz&layout=compact&langs_count=16&theme=tokyonight" height="200px"/>
 
 ## Social
 > LinkedIn | Gmail | Discord | Portfólio (em breve)
