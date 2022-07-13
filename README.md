@@ -1,3 +1,29 @@
+<div align="center">
+
+   ## Olá, me chamo Renan Souza 👋
+
+  <details>
+    <summary> More about me</summary>
+    
+    🤔 Pensando em futuros projetos e próximas linguagens que vou estudar...
+    
+    📚 Atualmente cursando Ciência da computação na Faculdade Cruzeiro do Sul (2022-2025)
+    
+    👾 Amo jogar e gostaria de desenvolver algum jogo no futuro
+    
+    ⚡ Linguagens que estou estudando: Python | Java script | React | Node.js
+  </details>
+  
+  <a href="https://www.linkedin.com/in/dvdluiz91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:dvdluiz1991@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSouz&layout=compact&langs_count=16&theme=tokyonight" height="200px"/>
+</div>
+
+
+<!--
+
 ## Olá, me chamo Renan Souza 👋
 
 🤔 Pensando em futuros projetos e próximas linguagens que vou estudar...
