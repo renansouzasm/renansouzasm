@@ -17,7 +17,7 @@
 </div>
 
 ## Linguagens
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSouz&layout=compact&langs_count=16&theme=tokyonight" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSouz&layout=compact&langs_count=16&theme=tokyonight" height="230px"/>
 
 <!--
 <a href="https://discord.com/channels/Renan#7312" target="_blank"><img width="40px" heigh="40px" src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
