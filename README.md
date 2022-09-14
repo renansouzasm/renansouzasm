@@ -6,7 +6,7 @@
     
 👾 Amo jogar e gostaria de desenvolver algum jogo no futuro
     
-⚡ Linguagens que estou estudando: <strong>SCSS | Python | Javascript | Reactjs | Nodejs</strong>
+⚡ Linguagens que estou estudando: <strong>SCSS | Python | Javascript | Reactjs | Nodejs | Java</strong>
 
 ## Social
 >LinkedIn | Gmail | Portfólio (em breve)
