@@ -12,7 +12,7 @@ Meu objetivo é poder colocar em prática meus conhecimentos e poder evoluir cad
 ### Social
 >LinkedIn | Gmail - renansouzaa.dev@gmail.com
 <div justify="center">
-  <a href="https://www.linkedin.com/in/renan-souza-039574236/" target="_blank"><img width="40px" heigh="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/renansouzasm/" target="_blank"><img width="40px" heigh="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 </div>
 
 ### Linguagens
