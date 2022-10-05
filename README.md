@@ -1,6 +1,6 @@
 ### Sobre mim 
 
-Olá, me chamo Renan. começei a estudar programação em 2022 e estou apaixonado.
+Olá, me chamo Renan e começei a estudar programação em 2022 e estou apaixonado.
 
 Atualmente estou cursando Ciência da computação na faculdade Cruzeiro do Sul, e no meu tempo livre estou sempre dando uma olhada em cursos e eventos.
 
