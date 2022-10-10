@@ -10,7 +10,10 @@ Meu objetivo é poder colocar em prática meus conhecimentos e poder evoluir cad
 - 🗽 Tenho muito interesse em aprender novas línguas, começando pelo inglês.
 
 ### Social
->LinkedIn | Portfolio( em breve ) | Gmail - renansouzaa.dev@gmail.com
+>Gmail - renansouzaa.dev@gmail.com
+
+>LinkedIn | Portfolio( em breve )
+
 <div justify="center">
   
   <a href="https://www.linkedin.com/in/renansouzasm/"                                                               
