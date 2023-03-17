@@ -32,7 +32,6 @@ Meu objetivo é poder colocar em prática meus conhecimentos e poder evoluir cad
 <!--
 readme
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=renansouzasm&repo=github-readme-stats" height="290px"/>
-
 <!--
 
 <div>
