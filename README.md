@@ -30,6 +30,10 @@ Meu objetivo é poder colocar em prática meus conhecimentos e poder evoluir cad
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansouzasm&layout=compact&langs_count=16&theme=tokyonight" height="290px"/>
 
 <!--
+readme
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=renansouzasm&repo=github-readme-stats" height="290px"/>
+
+<!--
 
 <div>
   <a href="https://discord.com/channels/Renan#7312" target="_blank">
