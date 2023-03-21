@@ -9,23 +9,6 @@ Meu objetivo é poder colocar em prática meus conhecimentos e poder evoluir cad
 - 👾 Amo jogos, e gostaria de ver algo sobre como programa-los, ou quem sabe até mesmo desenvolver um algum dia.
 - 🗽 Tenho muito interesse em aprender novas línguas, começando pelo inglês.
 
-### Social
->Gmail - renansouzaa.dev@gmail.com
-
->LinkedIn | Portfolio( em breve )
-
-<div justify="center">
-  
-  <a href="https://www.linkedin.com/in/renansouzasm/"                                                               
-  target="_blank">
-  <img width="40px" heigh="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> <!-- linkedin -->
-  <a href="#">
-  <img width="40px"                                                                                    
-  heigh="40px" 
-  src="https://user-images.githubusercontent.com/101893896/171057609-c78c7c77-27ab-47ae-ad58-e3533d00af3e.svg"/></a> <!-- portfolio -->
-  
-</div>
-
 ### Linguagens
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansouzasm&layout=compact&langs_count=16&theme=tokyonight" height="200px"/>
 
