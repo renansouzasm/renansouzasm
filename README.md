@@ -6,6 +6,7 @@ Atualmente estou cursando Ciência da computação na Universidade Cruzeiro do S
 Meu objetivo é poder colocar em prática meus conhecimentos e poder evoluir cada vez mais, seja aprimorando oque já sei ou aprendendo coisas novas para me tornar um Desenvolvedor.
 
 ⚡ Tecnologias que mais uso no meu dia a dia: JavaScript, HTML, CSS.
+
 Conhecimento em: Node.js, React.js.
 
 ### Tecnologias
