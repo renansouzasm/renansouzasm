@@ -7,7 +7,9 @@ Meu objetivo é poder colocar em prática meus conhecimentos e poder evoluir cad
 
 ⚡ Tecnologias que mais uso no meu dia a dia: `JavaScript, HTML, CSS.`
 
-Conhecimento em: `Node.js, React.js, Java.`
+Possuo conhecimentos (em estudo): `Node.js, React.js, Java.`
+
+Bancos de dados (em estudo): `SQL, MySQL, MongoDB Atlas`
 
 ### Tecnologias
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansouzasm&layout=compact&langs_count=16&theme=tokyonight" height="200px"/>
