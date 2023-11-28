@@ -12,7 +12,7 @@ Possuo conhecimentos: `Node, Java.`
 Bancos de dados (em estudo): `SQL, MySQL, MongoDB Atlas`
 
 ### Tecnologias
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansouzasm&layout=compact&langs_count=16&theme=tokyonight" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansouzasm&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" height="200px"/>
 
 <!--
 <div width="100%" aling-items=center>
