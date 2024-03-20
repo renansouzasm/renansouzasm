@@ -5,7 +5,7 @@ Atualmente estou cursando Ciência da computação na Universidade Cruzeiro do S
 
 Meu objetivo é poder colocar em prática meus conhecimentos e poder evoluir cada vez mais, seja aprimorando oque já sei ou aprendendo coisas novas para me tornar um Desenvolvedor Front end.
 
-⚡ Conhecimento
+### ⚡Conhecimento
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
