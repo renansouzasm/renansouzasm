@@ -4,7 +4,7 @@ Sou desenvolvedor com foco em criar interfaces funcionais e intuitivas, sempre b
 
 Utilizo meu GitHub como portfólio digital, onde compartilho projetos em React, TypeScript e design responsivo. Gosto de aprender constantemente e encaro desafios de programação com uma abordagem estruturada, buscando soluções rápidas e eficazes. Tenho conhecimento em bancos de dados, como SQL e MongoDB, e conhecimento em metodologias ágeis, como Scrum e Kanban. Estou sempre aberto a expandir meus conhecimentos em áreas como UI/UX e gestão de projetos.
 
-### ⚡Conhecimento
+### Conhecimento
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
