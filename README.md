@@ -1,13 +1,11 @@
-### Sobre mim 
+### Oi 👋
 
-Olá me chamo Renan, comecei a estudar programação em 2022 e estou apaixonado.
-Atualmente estou cursando Ciência da computação na Universidade Cruzeiro do Sul
+Sou desenvolvedor com foco em criar interfaces funcionais e intuitivas, sempre buscando oferecer a melhor experiência para o usuário.
 
-Meu objetivo é poder colocar em prática meus conhecimentos e poder evoluir cada vez mais, seja aprimorando oque já sei ou aprendendo coisas novas para me tornar um Desenvolvedor Front end.
+Utilizo meu GitHub como portfólio digital, onde compartilho projetos em React, TypeScript e design responsivo. Gosto de aprender constantemente e encaro desafios de programação com uma abordagem estruturada, buscando soluções rápidas e eficazes. Tenho conhecimento em bancos de dados, como SQL e MongoDB, e conhecimento em metodologias ágeis, como Scrum e Kanban. Estou sempre aberto a expandir meus conhecimentos em áreas como UI/UX e gestão de projetos.
 
 ### ⚡Conhecimento
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
