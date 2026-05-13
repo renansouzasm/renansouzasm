@@ -1,4 +1,4 @@
-<img width=100% src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" />
+<img width=800px alt="Banner" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
 ### _Oi_ 👋
 
@@ -21,3 +21,7 @@ Utilizo meu GitHub como portfólio digital, onde compartilho projetos em React, 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=openjdk&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?&logo=jest&logoColor=white)
+
+### _Projetos em destaque (repositórios fixados abaixo)_
+
+<img width="400" alt="Next stripe e-commerce" src="https://github.com/user-attachments/assets/1afa613c-4cb4-475b-8db1-1ad8a3103077" />
