@@ -25,3 +25,4 @@ Utilizo meu GitHub como portfólio digital, onde compartilho projetos em React, 
 ### _Projetos em destaque (repositórios fixados abaixo)_
 
 <img width="400" alt="Next stripe e-commerce" src="https://github.com/user-attachments/assets/1afa613c-4cb4-475b-8db1-1ad8a3103077" />
+<img width="400" alt="Sneakerfit" src="https://github.com/user-attachments/assets/ca989ed5-c73e-4aa2-83fe-d4bab9ae092f" />
