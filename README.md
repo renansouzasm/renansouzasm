@@ -1,4 +1,4 @@
-<img width=800px alt="Banner" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
+<img width="768" alt="Banner" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
 ### _Oi_ 👋
 
@@ -24,5 +24,5 @@ Utilizo meu GitHub como portfólio digital, onde compartilho projetos em React, 
 
 ### _Projetos em destaque (repositórios fixados abaixo)_
 
-<img width="400" alt="Next stripe e-commerce" src="https://github.com/user-attachments/assets/1afa613c-4cb4-475b-8db1-1ad8a3103077" />
-<img width="400" alt="Sneakerfit" src="https://github.com/user-attachments/assets/ca989ed5-c73e-4aa2-83fe-d4bab9ae092f" />
+<img width="384" alt="Next stripe e-commerce" src="https://github.com/user-attachments/assets/2a47a239-480b-41e4-a719-b78bdbc907fe" />
+<img width="384" alt="Sneakerfit" src="https://github.com/user-attachments/assets/5daac7a7-b80b-47fb-b37d-ad876bd183d0" />
